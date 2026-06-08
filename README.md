@@ -342,14 +342,14 @@ wait
 ## Docker Hub Images
 
 ```
-daniellaera/config-server:latest
-daniellaera/auth-service:latest
-daniellaera/gateway-service:latest
-daniellaera/order-service:latest
-daniellaera/inventory-service:latest
-daniellaera/payment-service:latest
-daniellaera/notification-service:latest
-daniellaera/shop-ui:latest
+maimassesy/config-server:latest
+maimassesy/auth-service:latest
+maimassesy/gateway-service:latest
+maimassesy/order-service:latest
+maimassesy/inventory-service:latest
+maimassesy/payment-service:latest
+maimassesy/notification-service:latest
+maimassesy/shop-ui:latest
 ```
 
 ---
